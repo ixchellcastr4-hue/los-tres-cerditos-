@@ -1104,3 +1104,8 @@
     </script>
 </body>
 </html>
+            updateFlashcardView();
+        });
+    </script>
+</body>
+</html>
